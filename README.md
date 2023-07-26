@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @aishmanisha
-- 🌱 I’m currently learning Blockchain and Cloud
+- 🌱 Building the future of currencies at r3
 
 <!---
 aishmanisha/aishmanisha is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
